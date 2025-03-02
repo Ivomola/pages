@@ -135,7 +135,6 @@ p {
 
 .hero-img {
   width: 20vw;
-  animation: MoveUpDown 2s ease-in-out infinite alternate-reverse both;
   mix-blend-mode: multiply;
 }
 
@@ -156,6 +155,7 @@ strong {
   transform: translateY(-25%);
   text-align: right;
   opacity: 25%;
+  animation: MoveUpDown 2s ease-in-out infinite alternate-reverse both;
   
 }
 
